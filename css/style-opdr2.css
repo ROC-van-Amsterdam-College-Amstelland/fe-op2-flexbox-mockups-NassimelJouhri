@@ -9,8 +9,6 @@ body{
 
 }
 
-
-
 div{
     
   }
@@ -40,5 +38,32 @@ main{
     background-color: white;
     margin: 30px;
 }
+
+.item{
+    display: flex;
+    /* flex-direction: column; */
+    background-color: palevioletred;
+    width: 80%;
+    height: 125px;
+    margin: 50px;
+
+}
+
+.item img{
+    height: 100%;
+    width: 20%;
+
+}
+
+/* .foto{
+    display:flex;
+    flex-direction: column;
+    height: 10px;
+    width: 100px;
+    margin-left: 30px;
+    
+} */
+
+
 
 
